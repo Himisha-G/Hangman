@@ -3,7 +3,7 @@ word_list = [
     'absurd',
     'abyss',
     'affix',
-    'askew',
+    'asked',
     'avenue',
     'awkward',
     'axiom',
